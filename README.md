@@ -40,3 +40,9 @@ Example script:
     })
     c.Visit("https://en.wikipedia.org/wiki/Web_scraping")
 ```
+
+Finally, when the file is complete, run the script with:
+
+```go run {FILENAME.go}``` 
+
+example: ```go run .\App.go```
